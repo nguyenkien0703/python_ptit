@@ -1,0 +1,1 @@
+{"name":"Local: PY04008","url":"e:\\nam_3\\PTIT\\python_ptit\\python_ptit\\PY04008.py","tests":[{"id":1701575929841,"input":"1\n2  2\n1  2\n3  4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\nam_3\\PTIT\\python_ptit\\python_ptit\\PY04008.py","group":"local","local":true}
