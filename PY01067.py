@@ -1,4 +1,12 @@
 a=[]
+<<<<<<< HEAD
+
+
+
+
+for t in range(int(input())):
+    n=int(input())
+=======
 b=['0','1','2']
 def check(s):
     d=0
@@ -26,3 +34,4 @@ for k in range(0,t):
     for i in range(n):
         print(a[i], end=' ')
     print()
+>>>>>>> a893dcb2de3da0179d2f595723d3b5febb02e48b
