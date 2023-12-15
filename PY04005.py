@@ -12,7 +12,7 @@ t =int(input())
 l =[]
 for i in range(t):
     l.extend([float(x) for x in input().split()])
-
+# print(l)
 i=0
 for j in range(t):
     a = dis([l[i], l[i+1]], [l[i+2], l[i+3]])
